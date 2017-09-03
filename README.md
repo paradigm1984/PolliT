@@ -22,8 +22,6 @@ A user authenticated poll creation app. The user can create a poll of their choo
 - express-messages
 - express-session
 - express-validator
-- mongodb
-- mongoose
 - mysql
 - nodemon
 - passport
