@@ -2,6 +2,7 @@
 
 A user authenticated poll creation app. The user can create a poll of their choosing and have other users cast their votes. The application will then calculate the poll and display the results in google charts.
 
+
 ## Technologies used:
 
 - HTML
@@ -9,6 +10,7 @@ A user authenticated poll creation app. The user can create a poll of their choo
 - Javascript
 - Node JS
 - MySQL
+
 
 ## NPM Packages used:
 
@@ -31,9 +33,11 @@ A user authenticated poll creation app. The user can create a poll of their choo
 - uuid
 - webpack
 
+
 ## Version
 
 1.1.0
+
 
 ## Usage
 
@@ -73,13 +77,16 @@ A user authenticated poll creation app. The user can create a poll of their choo
 
 ![alt text](screenshots/dashboard-with-votes.png "Pie chart page")
 
+
 ### Link to the live site
 
 https://obscure-crag-43344.herokuapp.com/users/login
 
+
 ### Installation
 
 Loginapp requires [Node.js](https://nodejs.org/) v4+ to run.
+
 
 ```sh
 $ npm install
